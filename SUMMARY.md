@@ -29,3 +29,4 @@
 ## BLah
 
 * [Page 2](blah/page-2.md)
+* [New Page](blah/new.md)
